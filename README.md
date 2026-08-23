@@ -1,16 +1,12 @@
-## Hi there 👋
+# Hi, I'm David 👋
 
-<!--
-**David-M-Prickett/David-M-Prickett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mechanical Engineering student working on computational fluid dynamics and CAD modeling.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects & Research
+* **Navier-Stokes Numerical Solver** `[Planned]` — Python implementation based on 12 Steps to Navier-Stokes.
+* **Kinematic Deck Box** `[Planned]` — 3D printable mechanical container with integrated linkage mechanisms.
+* **Functional 3D Prints & CAD** `[Planned]` — ?
+  
+## 🛠️ Technical Skills
+* **CAD & Simulation:** SolidWorks, ANSYS
+* **Programming and Computing:** Python, MATLAB, C++, VBA
